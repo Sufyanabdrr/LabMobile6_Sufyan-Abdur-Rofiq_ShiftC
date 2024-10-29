@@ -1,4 +1,4 @@
-#Tugas 6 Praktikum Pemrograman Mobile#
+# Tugas 6 Praktikum Pemrograman Mobile#
 
 Nama  : Sufyan Abdur Rofiq
 NIM  : H1D022004
