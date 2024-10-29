@@ -1,17 +1,22 @@
 # Tugas 6 Praktikum Pemrograman Mobile
 
 Nama  : Sufyan Abdur Rofiq
+
 NIM  : H1D022004
+
 Shift Awal  : B
+
 Shift Baru  : C
 
-A. Screenshot Halaman Utama :
+# A. Screenshot Halaman Utama :
 
 ![sufyanss1](https://github.com/user-attachments/assets/506b6035-0af9-4fdf-ae6e-33f3a6b19062)
 
+
 ![sufyanss2](https://github.com/user-attachments/assets/d5ac6ef9-a8e9-4713-845b-aa1e772c3bca)
 
-B. Cara untuk menambahkan Komponen di halaman Ionic :
+
+# B. Cara untuk menambahkan Komponen di halaman Ionic :
 
 1). Untuk menambahkan komponen di halaman Ionic, langkah pertama adalah memastikan bahwa perangkat sudah terinstall Node.js dan Ionic CLI, karena kedua alat ini diperlukan untuk menjalankan proyek Ionic. Node.js berfungsi sebagai lingkungan runtime untuk menjalankan JavaScript di server, sementara Ionic CLI adalah alat manajemen proyek Ionic. Jika Node.js belum terpasang, unduh dari situs resminya, install, dan verifikasi instalasinya dengan mengetik node -v di terminal. Ini akan menunjukkan versi Node.js yang terpasang. Setelah itu, instal Ionic CLI dengan menjalankan perintah npm install -g @ionic/cli di terminal. Ionic CLI akan memungkinkan pengelolaan proyek Ionic di perangkat. Untuk memastikan Ionic CLI terpasang dengan benar, ketik ionic -v di terminal untuk melihat versinya.
 
