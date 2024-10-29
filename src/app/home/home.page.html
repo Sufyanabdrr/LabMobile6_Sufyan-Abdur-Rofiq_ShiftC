@@ -1,0 +1,79 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      <div
+        class="navbar"
+        style="
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+        "
+      >
+        <div class="logo" style="display: flex; align-items: center">
+          <img
+            src="assets/gambar/logosufyan.jpg"
+            alt="Logosufyan"
+            style="height: 40px; width: 40px"
+          />
+          <b style="margin-left: 10px"
+            >Sufyan<span style="color: orange">Sanz</span></b
+          >
+        </div>
+
+        <ion-button fill="clear" slot="end">
+          <ion-icon name="menu" style="color: black"></ion-icon>
+        </ion-button>
+      </div>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <div id="hero" style="align-items: start; margin: 5px 20px">
+    <h1 style="font-weight: 900; margin: 0; margin-top: 40px">Hello,</h1>
+    <p style="font-size: 30px; font-weight: 900; margin: 0">
+      Saya
+      <span style="color: orange">Sufyan Abdur Rofiq</span>
+    </p>
+    <h2 style="margin: 0; margin-top: 5px">NIM : H1D022004</h2>
+
+    <p style="text-align: center">
+      Saya adalah seorang atlet E-Sports profesional yang telah menorehkan pengalaman selama lebih dari 5 tahun di dunia kompetitif, terutama dalam permainan populer Mobile Legends.
+      Selain sebagai atlet, saya juga merupakan mahasiswa program studi Informatika di Fakultas Teknik, Universitas Jenderal Soedirman, dan saat ini sedang menempuh semester 5.
+      Sebagai mahasiswa, saya berhasil menyeimbangkan antara studi akademik dan karir sebagai atlet E-Sports, menunjukkan dedikasi yang tinggi pada kedua bidang tersebut.
+    </p>
+
+    <ion-button
+      shape="round"
+      style="
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        color: white;
+      "
+    >
+      Introduction
+    </ion-button>
+  </div>
+  <br />
+
+  <div class="about-me">
+    <ion-card>
+      <img alt="Silhouette of mountains" src="assets/gambar/sufyan.jpg" />
+      <ion-card-header>
+        <ion-card-title>About Me</ion-card-title>
+        <ion-card-subtitle>Sufyan Abdur Rofiq</ion-card-subtitle>
+      </ion-card-header>
+
+      <ion-card-content>
+          NIM : H1D022004
+          <br>
+          Angkatan : 2022
+          <br>
+          Shft Awal : B
+          <br>
+          Shift Baru : C
+      </ion-card-content>
+    </ion-card>
+  </div>
+</ion-content>
